@@ -1,0 +1,2 @@
+Mini SOC Scenario C test payload.
+Harmless file for download detection testing.
